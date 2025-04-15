@@ -1,0 +1,23 @@
+# Ignore dependencies
+node_modules/
+.env
+
+# Build outputs
+dist/
+build/
+.cache/
+.next/
+out/
+.vite/
+
+# Logs
+*.log
+
+# OS/IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+
+# TypeScript
+*.tsbuildinfo
